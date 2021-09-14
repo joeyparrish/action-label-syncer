@@ -22,7 +22,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/micnncim/action-label-syncer/pkg/github"
+	"github.com/joeyparrish/action-label-syncer/pkg/github"
 	"go.uber.org/multierr"
 )
 
